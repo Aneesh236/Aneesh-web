@@ -4,7 +4,7 @@
 
 ### This website is a comprehensive showcase of my CV, professional experience, and computing skills. It aims to provide potential employers, collaborators, and clients with detailed information about my background and expertise.
 
-###F eatures
+### Features
 * CV Section: An overview of my educational background, certifications, and professional history.
 * Experience Section: Detailed descriptions of my past roles, responsibilities, and achievements.
 
